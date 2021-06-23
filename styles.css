@@ -198,7 +198,6 @@ section:not(.hero) {
     -webkit-user-drag: none;
     margin-top: auto;
     position: relative;
-    z-index: 2;
 }
 
 .appendix-image {
