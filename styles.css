@@ -438,7 +438,7 @@ table tbody tr:nth-child(odd) {
     padding-bottom: .4rem;
 }
 
-.popup {
+/* .popup {
     height: 100vh;
     width: 100%;
     position: fixed;
@@ -485,4 +485,4 @@ table tbody tr:nth-child(odd) {
 .popup-image {
     display: block;
     width: 100%;
-}
+} */
